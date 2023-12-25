@@ -310,8 +310,4 @@ public class FinalProjectUAS185 {
         
     }
     
-}
-
-
-    
-    
+}    
